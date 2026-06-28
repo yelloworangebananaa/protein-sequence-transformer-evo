@@ -8,7 +8,7 @@ This project is an experimental sequence modeling system, not a structural biolo
 
 ---
 
-## Core Reality Check
+## Check
 
 This system operates purely at the sequence level.
 
